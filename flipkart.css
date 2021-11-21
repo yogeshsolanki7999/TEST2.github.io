@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+}
+
+body{
+    margin-top: 0px;
+}
+
+header{
+    background-color:#2873F0;
+    height: 45px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+}
+.flipkart-logo{
+    margin-left: 120px;
+    width: 150px;
+    
+    margin-bottom: 0px;
+    display: inline-block;
+    position: fixed;
+}
+.flipkart-logo > img {
+    margin-bottom: 0px;
+    
+
+}
+
+.flipkart-logo > p {
+    color: antiquewhite;
+    margin-left: 20px;
+    margin-top: 0px;
+    font-size: larger;
+}
+.search{
+    width: 89px;
+    
+    height:65px
+     ;
+    display: inline-block;
+
+
+}
+input{
+    width: 550px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 280px;
+    border: none;
+}
+.button{
+    margin-left:1020px;
+    width: 200px;
+    height:30px ;
+    background-color:white;
+    color: #2873F0;
+    font-size: larger;
+    font-weight: bold;
+    border: none;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 65px;
+    
+}
+[href="Error.ss"]{
+    text-decoration: none;
+    margin-top: 5px;
+    color: black;
+    margin-left: 15px;
+
+}
+hr{
+    margin-top: 15px;
+}
+
+.span{
+    margin-left: 35px;
+    margin-top: 25px;
+    
+    font-stretch: expanded;
+}
+
+.button2{
+    margin-left: 1050px;
+    width: 120px;
+    height: 35px;
+    background-color: #125ddd;
+    border: none;
+    margin-top: 5px;
+    color: antiquewhite;
+    font-size: medium;
+}
+.flex-container1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.flex-element{
+    height: 65px;
+}
+
+p{
+    margin-left: 90px;
+}
+
+#more{
+    color: antiquewhite;
+    font-size: 25px;
+    margin-left: 25px;
+}
+
+button:hover{
+    size: 65px;
+}
+.A-button{
+    color: #2873F0;
+
+}
+a{
+    color: #2873F0;
+    text-decoration: none;
+
+}
+
+[href="www.dd.com"]{
+    color: antiquewhite;
+}
